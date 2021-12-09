@@ -1,0 +1,33 @@
+2021-11-25 11:36:10.895 +07:00 [ERR] Wrong Input
+2021-11-25 11:36:26.892 +07:00 [ERR] Wrong Input
+2021-11-25 11:36:30.630 +07:00 [ERR] Wrong Input
+2021-11-25 11:36:39.696 +07:00 [ERR] Wrong Input
+2021-11-25 11:36:56.241 +07:00 [INF] Status Code : Created
+2021-11-25 11:39:09.756 +07:00 [ERR] Wrong Input
+2021-11-25 11:58:26.426 +07:00 [INF] Status Code : Created
+2021-11-25 12:03:07.763 +07:00 [INF] Application Started.
+2021-11-25 12:04:42.482 +07:00 [INF] Application Started.
+2021-11-25 12:07:27.379 +07:00 [INF] Application Started.
+2021-11-25 15:19:27.063 +07:00 [INF] Application Started.
+2021-11-25 15:19:47.737 +07:00 [ERR] Wrong Format Ketlot
+2021-11-25 15:20:11.130 +07:00 [INF] Application Started.
+2021-11-25 15:20:17.437 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:20:20.353 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:20:36.881 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:21:17.938 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:21:24.122 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:21:54.990 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:22:07.739 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:22:54.505 +07:00 [INF] Application Started.
+2021-11-25 15:23:01.217 +07:00 [INF] Status Code : Created
+2021-11-25 15:25:17.797 +07:00 [INF] Application Started.
+2021-11-25 15:25:32.532 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:25:49.179 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:26:11.526 +07:00 [ERR] Wrong Format Status
+2021-11-25 15:26:24.995 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:26:37.057 +07:00 [ERR] Wrong Format Keylot
+2021-11-25 15:26:59.960 +07:00 [ERR] Wrong Input
+2021-11-25 15:27:40.499 +07:00 [INF] Application Started.
+2021-11-25 15:35:56.054 +07:00 [INF] Application Started.
+2021-11-25 15:36:02.218 +07:00 [ERR] Wrong Format Keylot.
+2021-11-25 15:36:15.827 +07:00 [INF] Application Started.
