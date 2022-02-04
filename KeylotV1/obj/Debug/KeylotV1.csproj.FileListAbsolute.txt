@@ -132,3 +132,4 @@ C:\Users\Sunny\source\repos\KeylotV1\KeylotV1\bin\Debug\Serilog.Sinks.File.dll
 C:\Users\Sunny\source\repos\KeylotV1\KeylotV1\bin\Debug\Serilog.xml
 C:\Users\Sunny\source\repos\KeylotV1\KeylotV1\bin\Debug\Serilog.Sinks.File.pdb
 C:\Users\Sunny\source\repos\KeylotV1\KeylotV1\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Sunny\source\repos\KeylotV1\KeylotV1\bin\Debug\MQTTnet.dll
