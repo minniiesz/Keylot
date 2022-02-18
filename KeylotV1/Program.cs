@@ -14,7 +14,7 @@ namespace KeylotV1
         /// </summary>
         [STAThread]
         
-        static void Main()
+        static  void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
@@ -23,6 +23,7 @@ namespace KeylotV1
                   .CreateLogger();
             Log.Information("Application Started.");
             Application.Run(new Form1());
+         
         }
     }
 }
