@@ -1,0 +1,81 @@
+2022-01-04 10:22:44.155 +07:00 [INF] Application Started.
+2022-01-04 10:23:11.785 +07:00 [INF] Application Started.
+2022-01-04 10:23:16.119 +07:00 [INF] Status Code : OK
+2022-01-04 10:23:16.128 +07:00 [ERR] Can't found this job.
+2022-01-04 10:24:38.699 +07:00 [INF] Status Code : OK
+2022-01-04 10:24:38.699 +07:00 [ERR] Can't found this job.
+2022-01-04 13:57:04.467 +07:00 [INF] Application Started.
+2022-01-04 13:57:18.656 +07:00 [INF] Application Started.
+2022-01-04 13:57:26.428 +07:00 [ERR] Status Code : NotFound From CloseTicket
+2022-01-04 13:58:09.089 +07:00 [INF] Application Started.
+2022-01-04 13:58:15.834 +07:00 [ERR] Status Code : Forbidden
+2022-01-04 13:58:45.327 +07:00 [INF] Application Started.
+2022-01-04 13:58:58.829 +07:00 [ERR] Status Code : Forbidden
+2022-01-04 13:59:54.677 +07:00 [INF] Application Started.
+2022-01-04 13:59:58.902 +07:00 [ERR] Status Code : Forbidden
+2022-01-04 14:02:54.801 +07:00 [INF] Application Started.
+2022-01-04 14:03:04.066 +07:00 [INF] Status Code : OK
+2022-01-04 14:03:05.211 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 14:06:20.516 +07:00 [INF] Application Started.
+2022-01-04 14:06:29.940 +07:00 [INF] Status Code : OK
+2022-01-04 14:06:33.658 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 14:08:15.260 +07:00 [INF] Status Code : OK
+2022-01-04 14:08:56.997 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 14:10:52.948 +07:00 [INF] Application Started.
+2022-01-04 14:11:02.088 +07:00 [INF] Status Code : OK
+2022-01-04 14:11:03.152 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 14:11:32.927 +07:00 [INF] Status Code : OK
+2022-01-04 14:16:27.280 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 14:16:32.444 +07:00 [INF] Status Code : OK
+2022-01-04 14:16:34.532 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 14:17:04.977 +07:00 [INF] Application Started.
+2022-01-04 14:17:43.608 +07:00 [INF] Application Started.
+2022-01-04 14:18:08.423 +07:00 [INF] Application Started.
+2022-01-04 14:18:16.183 +07:00 [INF] Status Code : OK
+2022-01-04 14:18:17.448 +07:00 [ERR] Status Code : InternalServerError From OpenTicket
+2022-01-04 22:59:01.608 +07:00 [INF] Application Started.
+2022-01-04 23:03:37.097 +07:00 [INF] Application Started.
+2022-01-04 23:04:30.877 +07:00 [INF] Application Started.
+2022-01-04 23:04:58.633 +07:00 [INF] Application Started.
+2022-01-04 23:06:54.029 +07:00 [INF] Application Started.
+2022-01-04 23:12:43.873 +07:00 [INF] Application Started.
+2022-01-04 23:14:06.063 +07:00 [INF] Application Started.
+2022-01-04 23:15:26.997 +07:00 [INF] Application Started.
+2022-01-04 23:16:26.785 +07:00 [INF] Status Code : OK
+2022-01-04 23:16:31.554 +07:00 [INF] Status Code : Created
+2022-01-04 23:17:15.357 +07:00 [INF] Application Started.
+2022-01-04 23:17:16.928 +07:00 [INF] Status Code : Created
+2022-01-04 23:23:49.159 +07:00 [INF] Application Started.
+2022-01-04 23:24:06.876 +07:00 [INF] Application Started.
+2022-01-04 23:24:30.985 +07:00 [INF] Application Started.
+2022-01-04 23:24:40.937 +07:00 [INF] Status Code : OK
+2022-01-04 23:24:40.966 +07:00 [ERR] Can't found this job.
+2022-01-04 23:24:51.846 +07:00 [INF] Status Code : OK
+2022-01-04 23:24:51.846 +07:00 [ERR] Can't found this job.
+2022-01-04 23:25:08.809 +07:00 [INF] Application Started.
+2022-01-04 23:25:15.429 +07:00 [INF] Status Code : OK
+2022-01-04 23:25:15.449 +07:00 [ERR] Can't found this job.
+2022-01-04 23:26:01.723 +07:00 [INF] Application Started.
+2022-01-04 23:26:09.382 +07:00 [INF] Status Code : OK
+2022-01-04 23:26:09.391 +07:00 [ERR] Can't found this job.
+2022-01-04 23:26:18.907 +07:00 [INF] Application Started.
+2022-01-04 23:26:59.951 +07:00 [INF] Application Started.
+2022-01-04 23:27:06.653 +07:00 [INF] Application Started.
+2022-01-04 23:27:15.389 +07:00 [INF] Status Code : OK
+2022-01-04 23:27:15.422 +07:00 [ERR] Can't found this job.
+2022-01-04 23:27:17.253 +07:00 [INF] Status Code : OK
+2022-01-04 23:27:17.253 +07:00 [ERR] Can't found this job.
+2022-01-04 23:29:38.476 +07:00 [INF] Application Started.
+2022-01-04 23:29:52.640 +07:00 [INF] Application Started.
+2022-01-04 23:32:06.489 +07:00 [INF] Application Started.
+2022-01-04 23:32:15.518 +07:00 [INF] Status Code : OK
+2022-01-04 23:32:15.527 +07:00 [ERR] Can't found this job.
+2022-01-04 23:34:06.909 +07:00 [INF] Application Started.
+2022-01-04 23:34:12.775 +07:00 [INF] Status Code : OK
+2022-01-04 23:34:12.784 +07:00 [ERR] Can't found this job.
+2022-01-04 23:34:25.034 +07:00 [INF] Application Started.
+2022-01-04 23:34:33.449 +07:00 [INF] Status Code : OK
+2022-01-04 23:34:33.461 +07:00 [ERR] Can't found this job.
+2022-01-04 23:35:11.869 +07:00 [INF] Application Started.
+2022-01-04 23:35:20.543 +07:00 [INF] Status Code : OK
+2022-01-04 23:35:20.553 +07:00 [ERR] Can't found this job.

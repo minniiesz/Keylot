@@ -36,10 +36,9 @@ namespace KeylotV1
             InitializeComponent();
             SetVisibleCore(allowshowdisplay);
 
-
             Subscribe.subscribeValue();
             _globalKeyboardHook = new GlobalKeyboardHook(new Keys[] { Keys.Divide, Keys.Multiply,Keys.NumPad0, Keys.NumPad1, Keys.NumPad2, Keys.NumPad3, Keys.NumPad4, Keys.NumPad5
-                                   ,Keys.NumPad6,Keys.NumPad7,Keys.NumPad9,Keys.Return,Keys.Subtract,Keys.Decimal});
+                                   ,Keys.NumPad6,Keys.NumPad7,Keys.NumPad8,Keys.NumPad9,Keys.Return,Keys.Subtract,Keys.Decimal});
             Porty.test();
             Porty.sendReady();
             // Hooks into all keys.
@@ -69,17 +68,6 @@ namespace KeylotV1
 
         private GlobalKeyboardHook _globalKeyboardHook;
 
-
-        /*        private void buttonHook_Click(object sender, EventArgs e)
-                {
-                    // Hooks only into specified Keys (here "A" and "B").
-                    _globalKeyboardHook = new GlobalKeyboardHook(new Keys[] { Keys.A, Keys.B });
-
-                    // Hooks into all keys.
-                    _globalKeyboardHook = new GlobalKeyboardHook();
-                    _globalKeyboardHook.KeyboardPressed += OnKeyPressed;
-                }*/
-        //bool isOpen = false;
         /// <summary>
         /// </summary>
         /// <param name="sender"></param>
@@ -99,6 +87,7 @@ namespace KeylotV1
                 // Now you can access both, the key and virtual code
                 Keys loggedKey = e.KeyboardData.Key;
                 var text = loggedKey.ToString().ToLower();
+                
                 var key = CheckKey(text);
                 if (text == "return")
 

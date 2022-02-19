@@ -1,0 +1,2 @@
+2022-01-10 14:22:59.440 +07:00 [INF] Application Started.
+2022-01-10 14:26:36.584 +07:00 [INF] Application Started.

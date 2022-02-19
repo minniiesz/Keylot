@@ -35,8 +35,9 @@ namespace KeylotV1
                 }
                 else
                 {
-                   OpenTicket(client, jobprofileId, input);
-                }
+                OpenTicket(client, jobprofileId, input);
+                //MessageBox.Show("Open ticket");
+            }
 
         }
 
@@ -136,11 +137,12 @@ namespace KeylotV1
 
         public static async Task<string> getJobId(string accessToken)
         {
-            string uri = "https://api.iot.ifra.io/v1/teams/"+ConfigurationManager.AppSettings["teamId"]+"/job-profiles";
+            string uri = "https://api.iot.ifra.io/v1/teams/"+ConfigurationManager.AppSettings["teamId"]+"/job-profiles?offset=0&limit=-1";
             var client = new HttpClient();
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+
             byte[] responded;
 
             HttpResponseMessage response = await client.GetAsync(uri);
@@ -167,10 +169,11 @@ namespace KeylotV1
                 return "";
             }
             RootJob objs = JsonConvert.DeserializeObject<RootJob>(data);
-            foreach (var obj in objs.data)
+            foreach (data obj in objs.data)
             {
                 if(obj.name == input)
                 {
+                   
                     return obj.id; 
                 }
             }

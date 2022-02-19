@@ -1,0 +1,36 @@
+2022-01-18 19:47:52.007 +07:00 [INF] Application Started.
+2022-01-18 20:21:23.370 +07:00 [INF] Application Started.
+2022-01-18 20:22:21.452 +07:00 [INF] Application Started.
+2022-01-18 20:22:23.919 +07:00 [ERR] Cant Close Job : Not Found
+2022-01-18 20:22:36.562 +07:00 [ERR] Cant Get Job Profile : Forbidden
+2022-01-18 20:23:18.201 +07:00 [INF] Application Started.
+2022-01-18 20:23:20.644 +07:00 [ERR] Cant Close Job : Not Found
+2022-01-18 20:23:27.905 +07:00 [ERR] Cant Get Job Profile : Forbidden
+2022-01-18 20:24:24.215 +07:00 [INF] Application Started.
+2022-01-18 20:24:26.664 +07:00 [ERR] Cant Close Job : Not Found
+2022-01-18 20:26:29.315 +07:00 [INF] Application Started.
+2022-01-18 20:26:31.766 +07:00 [ERR] Cant Close Job : Not Found
+2022-01-18 20:26:40.515 +07:00 [ERR] Cant Get Job Profile : Forbidden
+2022-01-18 20:27:54.008 +07:00 [INF] Application Started.
+2022-01-18 20:27:56.466 +07:00 [ERR] Cant Close Job : Not Found
+2022-01-18 20:28:25.508 +07:00 [ERR] Cant Get Job Profile : Forbidden
+2022-01-18 20:32:40.139 +07:00 [INF] Application Started.
+2022-01-18 20:32:50.268 +07:00 [ERR] Cant Get Job Profile : Forbidden
+2022-01-18 20:34:23.431 +07:00 [INF] Application Started.
+2022-01-18 20:34:31.003 +07:00 [ERR] Cant Get Job Profile : Forbidden
+2022-01-18 20:36:36.542 +07:00 [INF] Application Started.
+2022-01-18 20:36:43.757 +07:00 [ERR] Can't found this job.
+2022-01-18 20:37:26.931 +07:00 [ERR] Can't Open Ticket : Bad Request
+2022-01-18 20:40:59.798 +07:00 [INF] Application Started.
+2022-01-18 20:41:09.089 +07:00 [ERR] Can't Open Ticket : Bad Request
+2022-01-18 20:43:26.819 +07:00 [INF] Application Started.
+2022-01-18 20:43:55.608 +07:00 [ERR] Can't Open Ticket : Bad Request
+2022-01-18 20:44:37.067 +07:00 [ERR] Can't found this job.
+2022-01-18 21:41:31.513 +07:00 [INF] Application Started.
+2022-01-18 21:42:05.377 +07:00 [INF] Application Started.
+2022-01-18 21:42:07.848 +07:00 [ERR] Cant Close Job : Not Found
+2022-01-18 21:44:26.915 +07:00 [INF] Application Started.
+2022-01-18 21:44:36.101 +07:00 [INF] Running Job : 100*20*20
+2022-01-18 21:45:19.550 +07:00 [INF] Closed Job : 100*20*20
+2022-01-18 21:46:17.118 +07:00 [INF] Application Started.
+2022-01-18 21:50:47.910 +07:00 [INF] Application Started.

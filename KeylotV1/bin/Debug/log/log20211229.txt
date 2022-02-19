@@ -1,0 +1,50 @@
+2021-12-29 13:42:29.923 +07:00 [INF] Application Started.
+2021-12-29 13:43:45.373 +07:00 [INF] Application Started.
+2021-12-29 13:44:08.108 +07:00 [INF] Status Code : OK
+2021-12-29 13:44:11.681 +07:00 [ERR] Status Code : BadRequest From OpenTicket
+2021-12-29 13:44:27.100 +07:00 [INF] Status Code : OK
+2021-12-29 13:44:28.978 +07:00 [ERR] Status Code : BadRequest From OpenTicket
+2021-12-29 13:46:08.132 +07:00 [INF] Application Started.
+2021-12-29 13:46:14.155 +07:00 [INF] Status Code : Created
+2021-12-29 13:46:14.179 +07:00 [INF] Status Code : Created
+2021-12-29 13:46:32.751 +07:00 [INF] Application Started.
+2021-12-29 13:46:42.972 +07:00 [INF] Status Code : OK
+2021-12-29 13:46:44.097 +07:00 [INF] Status Code : Created
+2021-12-29 13:46:51.912 +07:00 [INF] Status Code : Created
+2021-12-29 13:47:17.289 +07:00 [INF] Status Code : OK
+2021-12-29 13:47:17.289 +07:00 [ERR] Can't found this job.
+2021-12-29 13:47:19.938 +07:00 [INF] Status Code : OK
+2021-12-29 13:47:19.938 +07:00 [ERR] Can't found this job.
+2021-12-29 13:47:23.028 +07:00 [INF] Status Code : OK
+2021-12-29 13:47:23.028 +07:00 [ERR] Can't found this job.
+2021-12-29 13:47:25.584 +07:00 [INF] Status Code : OK
+2021-12-29 13:47:25.584 +07:00 [ERR] Can't found this job.
+2021-12-29 13:47:26.591 +07:00 [INF] Status Code : OK
+2021-12-29 13:47:26.591 +07:00 [ERR] Can't found this job.
+2021-12-29 13:47:58.966 +07:00 [INF] Status Code : OK
+2021-12-29 13:47:58.966 +07:00 [ERR] Can't found this job.
+2021-12-29 13:51:04.282 +07:00 [INF] Application Started.
+2021-12-29 13:56:56.542 +07:00 [INF] Application Started.
+2021-12-29 13:57:36.785 +07:00 [INF] Status Code : OK
+2021-12-29 13:57:36.798 +07:00 [ERR] Can't found this job.
+2021-12-29 13:57:46.398 +07:00 [INF] Status Code : OK
+2021-12-29 13:57:46.398 +07:00 [ERR] Can't found this job.
+2021-12-29 13:57:52.055 +07:00 [INF] Status Code : OK
+2021-12-29 13:57:53.420 +07:00 [INF] Status Code : Created
+2021-12-29 13:58:23.573 +07:00 [INF] Status Code : Created
+2021-12-29 13:58:42.915 +07:00 [INF] Status Code : Created
+2021-12-29 13:59:10.630 +07:00 [INF] Status Code : OK
+2021-12-29 13:59:10.630 +07:00 [ERR] Can't found this job.
+2021-12-29 14:00:42.102 +07:00 [INF] Application Started.
+2021-12-29 14:01:00.856 +07:00 [INF] Application Started.
+2021-12-29 14:01:15.787 +07:00 [INF] Status Code : OK
+2021-12-29 14:01:15.815 +07:00 [ERR] Can't found this job.
+2021-12-29 14:01:30.004 +07:00 [INF] Status Code : OK
+2021-12-29 14:01:30.004 +07:00 [ERR] Can't found this job.
+2021-12-29 14:01:34.003 +07:00 [INF] Status Code : OK
+2021-12-29 14:01:36.920 +07:00 [INF] Status Code : Created
+2021-12-29 14:03:34.272 +07:00 [INF] Status Code : Created
+2021-12-29 14:05:19.617 +07:00 [INF] Status Code : OK
+2021-12-29 14:05:20.652 +07:00 [INF] Status Code : Created
+2021-12-29 14:28:15.295 +07:00 [INF] Application Started.
+2021-12-29 14:28:20.027 +07:00 [INF] Status Code : Created
