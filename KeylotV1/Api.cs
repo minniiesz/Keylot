@@ -137,7 +137,11 @@ namespace KeylotV1
 
         public static async Task<string> getJobId(string accessToken)
         {
+<<<<<<< HEAD
             string uri = "https://api.iot.ifra.io/v1/teams/"+ConfigurationManager.AppSettings["teamId"]+"/job-profiles?offset=0&limit=-1";
+=======
+            string uri = "https://api.iot.ifra.io/v1/teams/"+ConfigurationManager.AppSettings["teamId"]+"/job-profiles"+"?offset=0&limit=-1";
+>>>>>>> 28a4a2e266ffbd808b59f4f9c10c54c60e01ca93
             var client = new HttpClient();
             client.DefaultRequestHeaders.Accept.Clear();
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
